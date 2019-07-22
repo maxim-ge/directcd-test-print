@@ -7,5 +7,5 @@ import (
 
 // Print test message
 func Print(cnt int) {
-	fmt.Println("I'm directcd_test_module maximge 10", cnt, time.Now())
+	fmt.Println("I'm directcd_test_module maximge 11", cnt, time.Now())
 }
